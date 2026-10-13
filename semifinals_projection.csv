@@ -1,0 +1,3 @@
+semi_final,team_A,team_B,predicted_winner,home_win_prob,draw_prob,away_win_prob
+SF1,France,Netherlands,France,0.454252952247265,0.26163143616862145,0.28411561158411386
+SF2,Spain,England,Spain,0.5215563434055945,0.251779279277845,0.2266643773165603
